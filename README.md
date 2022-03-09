@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hemant-khanal
-- 👀 I’m interested in cricket
+- 👀 I’m interested in cricket and now i am changing first time file.
 - 🌱 I’m currently learning GIT
 - 💞️ I’m looking to collaborate on just me
 - 📫 How to reach me via cell phone
